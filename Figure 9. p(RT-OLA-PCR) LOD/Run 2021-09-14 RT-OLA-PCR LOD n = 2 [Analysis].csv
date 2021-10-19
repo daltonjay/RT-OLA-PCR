@@ -1,0 +1,30 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2010 QIAGEN GmbH. All Rights Reserved."
+"File","Run 2021-09-14 RT-OLA-PCR LOD dT_21 n = 2 (pcr).rex"
+"Date","9/15/2021"
+"Time","2:48:38 PM"
+
+"Quantitative analysis of Cycling A.Green (Page 1)"
+
+"No.","Name","Type","Ct","Ct Comment","Given Conc (copies/reaction)","Calc Conc (copies/reaction)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"1","10aM (10^2)","Unknown","","","","","","","","","",""
+"2","10aM (10^2)","Unknown","","","","","","","","","",""
+"3","100aM (10^3)","Unknown","","","","","","","","","",""
+"4","100aM (10^3)","Unknown","","","","","","","","","",""
+"5","1fM (10^4)","Unknown","","","","","","","","","",""
+"6","1fM (10^4)","Unknown","","","","","","","","","",""
+"7","10fM (10^5)","Unknown","38.33","","","","","38.33","","","",""
+"8","10fM (10^5)","Unknown","","","","","","","","","",""
+"9","100fM (10^6)","Unknown","35.07","","","","","34.67","0.57","","",""
+"10","100fM (10^6)","Unknown","34.27","","","","","","","","",""
+"11","1pM (10^7)","Unknown","31.58","","","","","31.77","0.28","","",""
+"12","1pM (10^7)","Unknown","31.97","","","","","","","","",""
+"13","RT Control","Unknown","","","","","","","","","",""
+"14","RT Control","Unknown","","","","","","","","","",""
+"15","Ligation Control","Unknown","","","","","","","","","",""
+"16","Ligation Control","Unknown","","","","","","","","","",""
+"17","PCR NTC","Unknown","","","","","","","","","",""
+"18","PCR NTC","Unknown","","","","","","","","","",""
+
+
+
